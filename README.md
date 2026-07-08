@@ -104,7 +104,7 @@ Display results and errors
 
 C++
 
-Standard Libraries 
+Standard Libraries:
 
 iostream
 
