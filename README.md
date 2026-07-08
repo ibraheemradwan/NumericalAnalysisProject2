@@ -1,4 +1,4 @@
-**Numerical Analysis: Numerical Differentiation and Integration (C++)**
+**Numerical Differentiation and Integration (C++)**
 
 This project implements several numerical differentiation and numerical integration techniques in C++ to approximate derivatives and definite integrals while comparing the numerical results with their exact analytical solutions.
 
